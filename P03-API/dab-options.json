@@ -1,0 +1,18 @@
+﻿{
+   "ConnectionStringName": "dab-connection-string",
+   "Dacpac": null,
+   "DatabaseType": 3,
+   "MergeDacpacs": false,
+   "Optional": false,
+   "ProjectPath": "C:\\Users\\camil\\OneDrive\\Escritorio\\Recuperatorio_P2_2024 (1)\\Recuperatorio_P2_2024\\ParcialWebApi\\ParcialWebApi",
+   "Tables": [
+      {
+         "Name": "[dbo].[Solicitudes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TipoCambio]",
+         "ObjectType": 0
+      }
+   ]
+}
